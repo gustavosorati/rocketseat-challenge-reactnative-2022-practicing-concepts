@@ -1,27 +1,12 @@
-# Desafio 01 - Praticando os conceitos do React Native
+![Rocketseat](_docs/capa.jpg)
 
-<div>
+This repository contains the resolution of 1th project: Practicing Concepts from the react native course by rocketseat. The application allows the user to add tasks or reminders of tasks to be completed, having the option of removing them or marking them as complete.
+
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<div align="center">
     <img src="https://i.ibb.co/qJn7mmh/Screenshot-1664040154.png" width="300px">
     <img src="https://i.ibb.co/6Njm1yr/Screenshot-1664040577.png" width="300px">
 </div>
-
-A aplicação permite ao usuário adicionar tarefas ou lembretes de afazeres a serem cumpridos, tendo a opção de removê-los ou marcá-los como completos.
-
-Esse projeto faz parte dos desafios propostos no curso de **React Native 2022 da Rocketseat**.
-O layout da aplicação está disponível aqui: [Figma](<https://www.figma.com/file/mvpJeNCDbuGqaLsvOFUwO1/ToDo-List-(Copy)?node-id=401%3A618>)
-
----
-
-## 🔧 Instalação
-
-Antes de executar o projeto, será necessário que você tenha instalado em sua maquina: **NodeJS, Android Studio, Expo**, a rocketseat disponibiliza um manual passo-a-passo de instação.
-
-Após a instalação será preciso apenas rodar:
-
-    npm run start
-
----
-
-## 🛠️ Construído com
-
-- React Native
